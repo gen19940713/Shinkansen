@@ -1,4 +1,15 @@
-table {
+table.sample {
   width: auto;
   height: auto;
+  border-collapse: collapse;
+}
+
+table.sample th {
+  border: 1px solid #000066;
+  background: greenyellow;
+}
+
+table.sample td {
+  border: 1px solid #000066;
+  background: #ffffff;
 }
